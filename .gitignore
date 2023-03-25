@@ -1,2 +1,4 @@
 venv
 cansus_income.egg-info
+build
+dist
